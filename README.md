@@ -9,7 +9,10 @@ FiveM Natural Vision Evolved
 這是來自VAG論壇上的文件，我把它做成了整合包，你只需動動手滑鼠就可以安裝他了
 
 # 安裝說明
-1.下載文件
+1.點擊下方連結並下載檔案
+
+連結:https://www.mediafire.com/file/yp2d0lsn90sw1oa/nve.rar/file
+
 2.將文件中的NAV壓縮檔解壓縮
 
 在你執行這個步驟時我必須提醒你!如果你有安裝任何FiveM 客戶端外加差建請先將你得Fivem資料夾備份!
